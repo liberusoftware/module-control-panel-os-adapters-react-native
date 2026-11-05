@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-os-adapters-react-native",
+  "capabilityKey": "liberusoftware/module-control-panel-os-adapters",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-control-panel-os-adapters-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/control-panel/nextjs/os-adapters.md",
+  "presentationPlan": "projects/control-panel/react-native/os-adapters.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
